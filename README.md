@@ -5,7 +5,7 @@ TCPDump Parser to analyse traffic
 ## sudo tcpdump -nli ens33 | python tcpdump.py
 
 # Issues
-Having issues to use local variables with the threads
-Implement further functions as summarising used protocols
-- DNS Uses often 3 IPs (part of A record resolution)
-- (Iterate on line to calculate more than 2 IPs)
+Having issues to use local variables with the threads.
+Implement further functions as summarising used protocols.
+- DNS Uses often 3 IPs (part of A record resolution).
+- (Iterate on line to calculate more than 2 IPs).
