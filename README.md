@@ -6,6 +6,7 @@ TCPDump Parser to analyse traffic
 
 # Issues
 Having issues to use local variables with the threads.
+
 Implement further functions as summarising used protocols.
 - DNS Uses often 3 IPs (part of A record resolution).
 - (Iterate on line to calculate more than 2 IPs).
