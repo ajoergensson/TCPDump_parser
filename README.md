@@ -7,7 +7,7 @@ TCPDump parser to analyse traffic
 ![prnt](https://user-images.githubusercontent.com/32357144/63353242-5b6f3b00-c35a-11e9-82df-935d6dbbbe49.png)
 
 # Issues
-Inconsistency with graceful shutdown of threads due to misuse of attributes from local variables (mIP.group(0)).
+Inconsistency with graceful shutdown of threads due to misuse of attributes from local variables (mIP.group(0)). <br />
 Having issues to use local variables with the threads.
 
 Implement further functions as summarising used protocols.
