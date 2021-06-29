@@ -11,6 +11,6 @@ Inconsistency with graceful shutdown of threads due to misuse of attributes from
 Having issues to use local variables with the threads.
 
 # Further development
-Implement further functions as summarising used protocols.<br />
+Implement further functions to summarise used protocols.<br />
 - DNS Uses often 3 IPs (part of A record resolution).
 - (Iterate on line to calculate more than 2 IPs).
