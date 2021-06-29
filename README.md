@@ -10,6 +10,7 @@ TCPDump parser to analyse traffic
 Inconsistency with graceful shutdown of threads due to misuse of attributes from local variables (mIP.group(0)). <br />
 Having issues to use local variables with the threads.
 
-Implement further functions as summarising used protocols.
+# Further development
+Implement further functions as summarising used protocols.<br />
 - DNS Uses often 3 IPs (part of A record resolution).
 - (Iterate on line to calculate more than 2 IPs).
