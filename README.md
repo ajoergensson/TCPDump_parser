@@ -13,4 +13,4 @@ Having issues to use local variables with the threads.
 # Further development
 Implement further functions to summarise used protocols.<br />
 - DNS Uses often 3 IPs (part of A record resolution).
-- (Iterate on line to calculate more than 2 IPs).
+  - Iterate on line to calculate more than 2 IPs.
