@@ -2,7 +2,7 @@
 TCPDump parser to analyse traffic
 
 # Use the app in the following way
-## sudo tcpdump -nli ens33 | python tcpdump.py
+### sudo tcpdump -nli ens33 | python tcpdump.py
 
 ![prnt](https://user-images.githubusercontent.com/32357144/63353242-5b6f3b00-c35a-11e9-82df-935d6dbbbe49.png)
 
